@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pim-srv-fazenda-urbana-mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logo_description">Logotipo da aplicação Semente Verde</string>
+    <string name="title_activity_pesquisa_sl_prod">PesquisaSlProdActivity</string>
+    <string name="logo">Logo</string>
+    <string name="pesquisar">Logo</string>
+    <string name="title_activity_produtos">ProdutosActivity</string>
+    <string name="imagem_do_produto">ImagemProdutos</string>
+</resources>
